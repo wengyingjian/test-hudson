@@ -35,4 +35,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<build>
+		<finalName>hudson-test</finalName>
+	</build>
 </project>
